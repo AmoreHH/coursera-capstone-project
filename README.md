@@ -3,7 +3,7 @@
 Hi! Here for share my learning path and records with Coursera. 
 
 ## IBM Data Science (Completed) 
-Great Courses and highly recommend it!\  
+Great Courses and highly recommend it!
 My final capstone assignments link: [IBM_DS_Capstone_Project](https://github.com/AmoreHH/coursera-projects/tree/main/IBM_DS_Capstone_Project) 
 
 ## IBM AI Engineering (In Progress)

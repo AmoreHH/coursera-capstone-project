@@ -15,7 +15,7 @@ My final capstone assignments link: [IBM_DS_Capstone_Project](https://github.com
 6. AI Capstone Project with Deep Learning
 
 
-## Advanced Machine Learning Specialization
+## Advanced Machine Learning Specialization  (In Progress)
 1. How to Win a Data Science Competition: Learn from Top Kagglers
 
 
